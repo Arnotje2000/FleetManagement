@@ -1,0 +1,92 @@
+services:
+  frontend:
+    image: bugbusters-frontend:latest  # Updated to the actual image name
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    environment:
+      - REACT_APP_API_URL=http://localhost:5054
+    restart: unless-stopped
+    networks:
+      - app-network
+
+  backend:
+    image: bugbusters-backend:latest  # Updated to the actual image name
+    ports:
+      - "5054:80"
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=FleetManagerDB;Database=FleetManagerDB;User Id=sa;Password=BramArno2000!;TrustServerCertificate=True
+      - ASPNETCORE_URLS=http://+:80
+    restart: unless-stopped
+    networks:
+      - app-network
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    hostname: FleetManagerDB
+    container_name: FleetManagerDB
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=BramArno2000!
+      - MSSQL_PID=Developer
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+      - ./db-init:/scripts:ro
+    healthcheck:
+      test: /opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P "BramArno2000!" -Q "SELECT 1" -N -C -b -h -1
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 90s
+    restart: unless-stopped
+    networks:
+      - app-network
+
+  db-init:
+    image: mcr.microsoft.com/mssql-tools:latest
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./db-init:/scripts
+    command: >
+      /bin/bash -c '
+      sleep 10 &&
+      /opt/mssql-tools/bin/sqlcmd -S FleetManagerDB -U sa -P BramArno2000! -i /scripts/01-create-database.sql -N -C &&
+      /opt/mssql-tools/bin/sqlcmd -S FleetManagerDB -U sa -P BramArno2000! -i /scripts/02-schema.sql -N -C &&
+      /opt/mssql-tools/bin/sqlcmd -S FleetManagerDB -U sa -P BramArno2000! -i /scripts/03-data.sql -N -C
+      '
+    networks:
+      - app-network
+
+  adminer:
+    image: adminer:latest
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - ADMINER_DEFAULT_SERVER=FleetManagerDB
+      - ADMINER_DESIGN=dracula
+    restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  sqlserver_data:
+    driver: local
+  sqlserver_logs:
+    driver: local
+  sqlserver_backup:
+    driver: local

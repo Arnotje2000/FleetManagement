@@ -1,0 +1,25 @@
+{
+  "short_name": "Fleet Management",
+  "name": "Fleet Management For Companies",
+  "icons": [
+    {
+      "src": "logo_fleetmanagement_lyz_icon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo_fleetmanagement.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_fleetmanagement.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

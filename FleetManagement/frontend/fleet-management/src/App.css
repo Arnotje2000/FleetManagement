@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
+* {
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+html, body {
+    height: 100%;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+/* Other styles remain unchanged */
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures it takes the full height */
+}
+
+.protected-route, .login-page, .register-page {
+    flex: 1; /* Allow content to grow and fill the available space */
+}
+
+.table-container {
+    overflow-x: auto; /* Allow horizontal scrolling */
+}
+
+table {
+    width: 100%; /* Full width */
+    border-collapse: collapse; /* Collapse borders */
+}
+
+th, td {
+    padding: 8px; /* Padding for cells */
+    text-align: left; /* Align text to the left */
+    max-width: 150px; /* Set a max width for columns */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+    white-space: nowrap; /* Prevent text from wrapping */
+}
+
+th {
+    background-color: #f2f2f2; /* Light background for headers */
+    font-weight: bold; /* Bold text for headers */
+}
+
+/* Set specific widths for columns */
+th:nth-child(1), td:nth-child(1) { width: 80px; } /* Actions */
+th:nth-child(2), td:nth-child(2) { width: 50px; } /* ID */
+th:nth-child(3), td:nth-child(3) { width: 100px; } /* Brand */
+th:nth-child(4), td:nth-child(4) { width: 100px; } /* Model */
+th:nth-child(5), td:nth-child(5) { width: 100px; } /* License Plate */
+th:nth-child(6), td:nth-child(6) { width: 100px; } /* Fuel Type */
+th:nth-child(7), td:nth-child(7) { width: 80px; } /* Color */
+th:nth-child(n+8), td:nth-child(n+8) { width: 120px; } /* Custom Fields */
+
+tr:hover {
+    background-color: #f5f5f5; /* Highlight row on hover */
+}

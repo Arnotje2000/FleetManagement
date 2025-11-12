@@ -1,0 +1,32 @@
+Step 1: Navigate into the cloned repository
+cd repo-name                                           # Navigate into the repository
+
+Step 2: Fetch the latest changes from the remote repository
+git fetch origin                                      # Fetch updates from the remote repository
+
+Step 3: Switch to the Main Branch and Pull Latest Changes
+git checkout main                                     # Switch to the main branch
+git pull origin main                                  # Pull the latest changes from the main branch
+
+Step 4: Create and Switch to the Develop Branch
+git checkout  develop                               # Create and switch to the develop branch
+
+Step 5: Make Your Edits
+Edit your files here                                 # Make your edits
+Step 6: Fetch Before Committing
+git fetch origin                                      # Fetch updates from the remote repository again
+
+Step 7: Check for Updates
+git status                                            # Check the status of your branch against the remote
+
+Step 8: Merge or Rebase if Necessary
+If there are new changes, merge or rebase
+git merge origin/main                                  # Merge changes (or use rebase if preferred)
+OR
+git rebase origin/main                               # Rebase changes (optional)
+Step 9: Stage and Commit Your Changes
+git add .                                             # Stage your changes
+git commit -m "Your descriptive commit message"      # Commit your changes
+
+Step 10: Push Your Changes to the Develop Branch
+git push origin develop                               # Push changes to the develop branch

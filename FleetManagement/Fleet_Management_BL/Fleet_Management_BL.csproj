@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DTO\**" />
+    <Compile Remove="Exception\**" />
+    <Compile Remove="Manager\**" />
+    <EmbeddedResource Remove="DTO\**" />
+    <EmbeddedResource Remove="Exception\**" />
+    <EmbeddedResource Remove="Manager\**" />
+    <None Remove="DTO\**" />
+    <None Remove="Exception\**" />
+    <None Remove="Manager\**" />
+  </ItemGroup>
+
+</Project>

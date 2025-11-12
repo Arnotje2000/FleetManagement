@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brama\\Desktop\\BugBusters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|c:\\users\\brama\\desktop\\bugbusters\\rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|solutionrelative:rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|c:\\users\\brama\\desktop\\bugbusters\\rest\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|solutionrelative:rest\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|c:\\users\\brama\\desktop\\bugbusters\\rest\\controllers\\customfieldvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|solutionrelative:rest\\controllers\\customfieldvaluecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C134F603-1E71-404F-A992-F94B6C28D864}|Fleet_Management_DL\\Fleet_Management_DL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_dl\\fleet_managementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C134F603-1E71-404F-A992-F94B6C28D864}|Fleet_Management_DL\\Fleet_Management_DL.csproj|solutionrelative:fleet_management_dl\\fleet_managementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\customfieldvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\customfieldvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\mapper\\vehiclemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\mapper\\vehiclemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|c:\\users\\brama\\desktop\\bugbusters\\rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|solutionrelative:rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\dtos\\tenantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\dtos\\tenantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\mapper\\tenantmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\mapper\\tenantmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639E8C4E-5AF2-4494-BF8F-E72E55B5470A}|InlezenDB\\InlezenDB.csproj|c:\\users\\brama\\desktop\\bugbusters\\inlezendb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639E8C4E-5AF2-4494-BF8F-E72E55B5470A}|InlezenDB\\InlezenDB.csproj|solutionrelative:inlezendb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\customfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\customfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\model\\clearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\model\\clearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\interface\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\interface\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|c:\\users\\brama\\desktop\\bugbusters\\rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|solutionrelative:rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|c:\\users\\brama\\desktop\\bugbusters\\rest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C8B67B0-504D-4482-AFC2-D08965078261}|REST\\REST.csproj|solutionrelative:rest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C134F603-1E71-404F-A992-F94B6C28D864}|Fleet_Management_DL\\Fleet_Management_DL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_dl\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C134F603-1E71-404F-A992-F94B6C28D864}|Fleet_Management_DL\\Fleet_Management_DL.csproj|solutionrelative:fleet_management_dl\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\enum\\valuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\enum\\valuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\interface\\itenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\interface\\itenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|c:\\users\\brama\\desktop\\bugbusters\\fleet_management_bl\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3F4AB2-5DE2-49E7-B4BC-4EA492A3857E}|Fleet_Management_BL\\Fleet_Management_BL.csproj|solutionrelative:fleet_management_bl\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\Tenant.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\Tenant.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\Tenant.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:59:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomFieldValue.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\CustomFieldValue.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\CustomFieldValue.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\CustomFieldValue.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\CustomFieldValue.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:02:46.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\InlezenDB\\Program.cs",
+              "RelativeDocumentMoniker": "InlezenDB\\Program.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\InlezenDB\\Program.cs",
+              "RelativeToolTip": "InlezenDB\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wIkBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:37:41.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Program.cs",
+              "RelativeDocumentMoniker": "REST\\Program.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Program.cs",
+              "RelativeToolTip": "REST\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:21:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "REST\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "REST\\Controllers\\TenantController.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAADwvz8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:07:08.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "REST\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Controllers\\UserController.cs",
+              "RelativeToolTip": "REST\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:22:26.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomFieldValueController.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Controllers\\CustomFieldValueController.cs",
+              "RelativeDocumentMoniker": "REST\\Controllers\\CustomFieldValueController.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Controllers\\CustomFieldValueController.cs",
+              "RelativeToolTip": "REST\\Controllers\\CustomFieldValueController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:17:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\User.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:33:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\VehicleType.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\VehicleType.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\VehicleType.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\VehicleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:05:16.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:24:25.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomField.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\CustomField.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\CustomField.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\CustomField.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\CustomField.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:00:52.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:24:02.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\appsettings.json",
+              "RelativeDocumentMoniker": "REST\\appsettings.json",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\appsettings.json",
+              "RelativeToolTip": "REST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T18:33:13.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleMapper.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Mapper\\VehicleMapper.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Mapper\\VehicleMapper.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Mapper\\VehicleMapper.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Mapper\\VehicleMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:01:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fleet_ManagementDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_DL\\Fleet_ManagementDBContext.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_DL\\Fleet_ManagementDBContext.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_DL\\Fleet_ManagementDBContext.cs",
+              "RelativeToolTip": "Fleet_Management_DL\\Fleet_ManagementDBContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwJYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:37:38.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\FuelType.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\FuelType.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\FuelType.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\FuelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:59:26.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Clearance.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\Clearance.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\Clearance.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\Clearance.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\Clearance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:59:25.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Model\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Model\\Vehicle.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Model\\Vehicle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:05:06.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TenantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\TenantDTO.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\DTOs\\TenantDTO.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\TenantDTO.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\DTOs\\TenantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:55:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\VehicleDTO.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\DTOs\\VehicleDTO.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\VehicleDTO.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\DTOs\\VehicleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:56:13.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TenantMapper.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Mapper\\TenantMapper.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Mapper\\TenantMapper.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Mapper\\TenantMapper.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Mapper\\TenantMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:01:04.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "REST\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\REST\\Properties\\launchSettings.json",
+              "RelativeToolTip": "REST\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T13:29:14.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:25:53.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITenantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Interface\\ITenantRepository.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Interface\\ITenantRepository.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Interface\\ITenantRepository.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Interface\\ITenantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:12:34.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValueType.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Enum\\ValueType.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Enum\\ValueType.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Enum\\ValueType.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Enum\\ValueType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:16:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:38:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Interface\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_BL\\Interface\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_BL\\Interface\\IVehicleRepository.cs",
+              "RelativeToolTip": "Fleet_Management_BL\\Interface\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:05:48.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_DL\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Fleet_Management_DL\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\brama\\Desktop\\BugBusters\\Fleet_Management_DL\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "Fleet_Management_DL\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAA0wLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:18.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
